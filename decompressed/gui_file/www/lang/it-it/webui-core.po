@@ -4713,3 +4713,6 @@ msgstr "Forza OFF radio"
 
 msgid "Dark Blue Unified UI"
 msgstr "UI unificata blu scuro"
+
+msgid "A Reboot has been Scheduled"
+msgstr ""
